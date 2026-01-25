@@ -21,7 +21,7 @@ Your users can easily report audio/video issues, missing subtitles, or request c
 
 1.  **Clone this repository**:
     ```bash
-    git clone [https://github.com/Sandoiitchisan/jellyfix.git](https://github.com/your-username/jellyfix.git)
+    git clone https://github.com/Sandoiitchisan/jellyfix.git
     cd jellyfix
     ```
 
