@@ -58,7 +58,8 @@ your-jellyfin-domain.com {
 
 #### Nginx example
 
-```Nginxlocation /jellyfix/ {
+```Nginx
+location /jellyfix/ {
     # Ensure the trailing slash is present
     proxy_pass http://jellyfix:8000/;
     proxy_set_header Host $host;
